@@ -1,0 +1,52 @@
+Department family,Entity,Date,Expense Type,Expense area,Supplier,Transaction number,AP Amount (£),VAT registration number,Purchase invoice number
+Department of Health,NHS East & North Hertfordshire CCG,31/05/2013,C&M-GMS LES Care Home/Nursing Home,LOCAL ENHANCED SERVICES,ASHWELL SURGERY,336143,151.34,,HT000000695
+Department of Health,NHS East & North Hertfordshire CCG,31/05/2013,C&M-GMS LES Phlebotomy,LOCAL ENHANCED SERVICES,ASHWELL SURGERY,336143,259,,HT000000695
+Department of Health,NHS East & North Hertfordshire CCG,31/05/2013,C&M-GMS NES Anti-coagulation Mntrng,LOCAL ENHANCED SERVICES,ASHWELL SURGERY,336143,"54,364.07",,HT000000695
+Department of Health,NHS East & North Hertfordshire CCG,31/05/2013,C&M-GMS NES Near Patient Testing,LOCAL ENHANCED SERVICES,ASHWELL SURGERY,336143,387.43,,HT000000695
+Department of Health,NHS East & North Hertfordshire CCG,31/05/2013,Clinical&Medical-Independent Sector,URGENT CARE,ASSURA LEA VALLEY LLP,234990,"60,115.50",,812Z325
+Department of Health,NHS East & North Hertfordshire CCG,31/05/2013,Hcare Srv Rec NHS Trust-Contract Baseline,ACUTE COMMISSIONING,BARNET & CHASE FARM HOSPITALS NHS TRUST,261821,"2,057,913.00",,I0057850
+Department of Health,NHS East & North Hertfordshire CCG,31/05/2013,Hcare Srv Rec NHS Trust-Contract Baseline,ACUTE COMMISSIONING,BEDFORD HOSPITAL NHS TRUST,229232,"51,884.00",,I0126913
+Department of Health,NHS East & North Hertfordshire CCG,31/05/2013,Clinical&Medical-Independent Sector,ACUTE COMMISSIONING,BMI HEALTHCARE COLLECTIONS,243854,"57,733.18",,11469
+Department of Health,NHS East & North Hertfordshire CCG,31/05/2013,Clinical&Medical-Independent Sector,ACUTE COMMISSIONING,BMI HEALTHCARE COLLECTIONS,243860,"47,305.48",,11470
+Department of Health,NHS East & North Hertfordshire CCG,31/05/2013,Clinical&Medical-Independent Sector,COLLABORATIVE COMMISSIONING,BOURN HALL CLINIC,243936,"522,706.67",,14523
+Department of Health,NHS East & North Hertfordshire CCG,31/05/2013,Hcare Srv Rec Fdtn Trust-Contract Baseline,ACUTE COMMISSIONING,CAMBRIDGE UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,229214,"895,928.29",,70010141
+Department of Health,NHS East & North Hertfordshire CCG,31/05/2013,Hcare Srv Rec NHS Trust-Contract Baseline,ACUTE COMMISSIONING,EAST AND NORTH HERTFORDSHIRE NHS TRUST,229244,"13,390,068.00",,4092640
+Department of Health,NHS East & North Hertfordshire CCG,31/05/2013,Hcare Srv Rec NHS Trust-Contract Baseline,ACUTE COMMISSIONING,EAST AND NORTH HERTFORDSHIRE NHS TRUST,229249,"79,797.00",,4092648
+Department of Health,NHS East & North Hertfordshire CCG,31/05/2013,Hcare Srv Rec NHS Trust-Contract Baseline,ACUTE COMMISSIONING,EAST OF ENGLAND AMBULANCE SERVICE NHS TRUST,234980,"1,298,125.00",,818543
+Department of Health,NHS East & North Hertfordshire CCG,31/05/2013,Hcare Srv Rec NHS Trust,PROGRAMME PROJECTS,EAST OF ENGLAND AMBULANCE SERVICE NHS TRUST,281594,"33,917.00",,724778
+Department of Health,NHS East & North Hertfordshire CCG,31/05/2013,Hcare Srv Rec NHS Trust,PROGRAMME PROJECTS,EAST OF ENGLAND AMBULANCE SERVICE NHS TRUST,311768,"33,917.00",,724816
+Department of Health,NHS East & North Hertfordshire CCG,31/05/2013,Hcare Srv Rec Fdtn Trust-Contract Baseline,ACUTE COMMISSIONING,GREAT ORMOND STREET HOSPITAL FOR CHILDREN NHS TRUST,261766,"69,751.35",,X0101077
+Department of Health,NHS East & North Hertfordshire CCG,31/05/2013,Hcare Srv Rec Fdtn Trust-Contract Baseline,ACUTE COMMISSIONING,GUYS & ST THOMAS HOSPITAL NHS FOUNDATION TRUST,243919,"125,656.00",,3111010
+Department of Health,NHS East & North Hertfordshire CCG,31/05/2013,Hcare Srv Rec NHS Trust-Contract Baseline,COMMUNITY SERVICES,HERTFORDSHIRE COMMUNITY NHS TRUST,229256,"2,423,201.00",,28005954
+Department of Health,NHS East & North Hertfordshire CCG,31/05/2013,Clinical&Medical-Othe Public Sector,PATIENT TRANSPORT,HERTFORDSHIRE COUNTY COUNCIL,243957,"69,089.00",,1801381670
+Department of Health,NHS East & North Hertfordshire CCG,31/05/2013,Clinical&Medical-Othe Public Sector,MENTAL HEALTH SERVICES - ADULTS,HERTFORDSHIRE COUNTY COUNCIL,281602,"4,272,000.00",,1801376980
+Department of Health,NHS East & North Hertfordshire CCG,31/05/2013,Clinical&Medical-Othe Public Sector,LEARNING DIFFICULTIES,HERTFORDSHIRE COUNTY COUNCIL,281602,"858,000.00",,1801376980
+Department of Health,NHS East & North Hertfordshire CCG,31/05/2013,Clinical&Medical-Othe Public Sector,CHILD AND ADOLESCENT MENTAL HEALTH,HERTFORDSHIRE COUNTY COUNCIL,281602,"331,000.00",,1801376980
+Department of Health,NHS East & North Hertfordshire CCG,31/05/2013,Clinical&Medical-Independent Sector,OUT OF HOURS,HERTS URGENT CARE,243913,"320,330.35",,2060
+Department of Health,NHS East & North Hertfordshire CCG,31/05/2013,Hcare Srv Rec Oth-NHS,PROGRAMME PROJECTS,HERTS URGENT CARE,253398,"95,527.80",,2070
+Department of Health,NHS East & North Hertfordshire CCG,31/05/2013,Clinical&Medical-Independent Sector,OUT OF HOURS,HERTS URGENT CARE,253402,"320,330.35",,2066
+Department of Health,NHS East & North Hertfordshire CCG,31/05/2013,Hcare Srv Rec Oth-NHS,NON RECURRENT PROGRAMMES,HERTS URGENT CARE,281596,"127,337.00",,2057
+Department of Health,NHS East & North Hertfordshire CCG,31/05/2013,Hcare Srv Rec Oth-NHS,NON RECURRENT PROGRAMMES,HERTS URGENT CARE,281599,"127,337.00",,2065
+Department of Health,NHS East & North Hertfordshire CCG,31/05/2013,Hcare Srv Rec NHS Trust-Contract Baseline,ACUTE COMMISSIONING,IMPERIAL COLLEGE HEALTHCARE NHS TRUST,261827,"72,897.00",,H0086320
+Department of Health,NHS East & North Hertfordshire CCG,31/05/2013,Hcare Srv Rec Fdtn Trust-Contract Baseline,ACUTE COMMISSIONING,LUTON & DUNSTABLE HOSPITAL NHS FOUNDATION TRUST,275940,"168,000.00",,52944865
+Department of Health,NHS East & North Hertfordshire CCG,31/05/2013,Hcare Srv Rec Oth-NHS-Contract Cost per Case,COMMISSIONING - NON ACUTE,MARIE STOPES INTERNATIONAL,340752,"76,550.00",,MS130493
+Department of Health,NHS East & North Hertfordshire CCG,31/05/2013,Hcare Srv Rec NHS Trust-Contract Baseline,ACUTE COMMISSIONING,MID ESSEX HOSPITALS SERVICES NHS TRUST,234986,"86,388.00",,ME2000077372
+Department of Health,NHS East & North Hertfordshire CCG,31/05/2013,Hcare Srv Rec Fdtn Trust-Contract Baseline,ACUTE COMMISSIONING,MOORFIELDS EYE HOSPITAL NHS FOUNDATION TRUST,253406,"196,186.00",,IC0016463
+Department of Health,NHS East & North Hertfordshire CCG,31/05/2013,Charges from CSU,CORPORATE COSTS & SERVICES,NHS HERTFORDSHIRE INTEGRATED CSU,229238,"559,739.71",,7311100005
+Department of Health,NHS East & North Hertfordshire CCG,31/05/2013,Hcare Srv Rec NHS Trust-Contract Baseline,ACUTE COMMISSIONING,NORTH MIDDLESEX UNIVERSITY HOSPITAL NHS TRUST,224633,"510,124.00",,17786
+Department of Health,NHS East & North Hertfordshire CCG,31/05/2013,Hcare Srv Rec NHS Trust-Contract Baseline,ACUTE COMMISSIONING,NORTH WEST LONDON HOSPITALS NHS TRUST,229194,"54,916.66",,I0147234
+Department of Health,NHS East & North Hertfordshire CCG,31/05/2013,Clinical&Medical-Independent Sector,ACUTE COMMISSIONING,PINEHILL HOSPITAL,281617,"943,729.73",,ENHCCGPINMAY13
+Department of Health,NHS East & North Hertfordshire CCG,31/05/2013,Hcare Srv Rec NHS Trust-Contract Baseline,ACUTE COMMISSIONING,PRINCESS ALEXANDRA HOSPITAL NHS TRUST,261761,"3,699,750.00",,BL130201
+Department of Health,NHS East & North Hertfordshire CCG,31/05/2013,Hcare Srv Rec NHS Trust-Contract Baseline,ACUTE COMMISSIONING,PRINCESS ALEXANDRA HOSPITAL NHS TRUST,262188,"3,699,750.00",,BL130103
+Department of Health,NHS East & North Hertfordshire CCG,31/05/2013,Hcare Srv Rec NHS Trust-Contract Baseline,ACUTE COMMISSIONING,PRINCESS ALEXANDRA HOSPITAL NHS TRUST,305980,"3,919,249.99",,BL130301
+Department of Health,NHS East & North Hertfordshire CCG,31/05/2013,Hcare Srv Rec Fdtn Trust-Contract Baseline,ACUTE COMMISSIONING,ROYAL BROMPTON & HAREFIELD NHS FOUNDATION TRUST,261756,"156,437.45",,I0159439
+Department of Health,NHS East & North Hertfordshire CCG,31/05/2013,Hcare Srv Rec Fdtn Trust-Contract Baseline,ACUTE COMMISSIONING,ROYAL FREE LONDON NHS FOUNDATION TRUST,298161,"410,131.00",,1322580
+Department of Health,NHS East & North Hertfordshire CCG,31/05/2013,Hcare Srv Rec NHS Trust-Contract Baseline,ACUTE COMMISSIONING,ROYAL NATIONAL ORTHOPAEDIC HOSPITAL NHS TRUST,243928,"194,929.00",,B0021959
+Department of Health,NHS East & North Hertfordshire CCG,31/05/2013,Hcare Srv Rec Fdtn Trust-Contract Cost per Case,COMMUNITY SERVICES,SOUTH ESSEX PARTNERSHIP NHS FOUNDATION TRUST,224627,"39,825.00",,I0034868
+Department of Health,NHS East & North Hertfordshire CCG,31/05/2013,Hcare Srv Rec Oth-NHS,HOSPICES,ST CLARE HOSPICE TRUST,275909,"41,189.00",,2568
+Department of Health,NHS East & North Hertfordshire CCG,31/05/2013,Prescribing,PRESCRIBING,UNITEDHEALTH UK,243867,"222,572.76",,105
+Department of Health,NHS East & North Hertfordshire CCG,31/05/2013,Hcare Srv Rec Fdtn Trust-Contract Baseline,ACUTE COMMISSIONING,UNIVERSITY COLLEGE LONDON HOSPITALS NHS FOUNDATION TRUST,234960,"492,622.00",,199339
+Department of Health,NHS East & North Hertfordshire CCG,31/05/2013,Hcare Srv Rec NHS Trust-Contract Baseline,ACUTE COMMISSIONING,WEST HERTFORDSHIRE HOSPITALS NHS TRUST,261816,"190,000.00",,210992
+Department of Health,NHS East & North Hertfordshire CCG,31/05/2013,Recharge : Received,FINANCE,WEST SUFFOLK NHS FOUNDATION TRUST,346245,"30,000.00",,227382
+,,,,,,,,,
+,,,,,,,"43,489,119.11",,
