@@ -1,0 +1,87 @@
+Department family,Entity,Date,Expense Type,Expense area,Supplier,Transaction number, AP Amount (£) ,Description
+Department of Health,03K,30/04/2020,Other Gen Supplies & Srv,Other Gen Supplies & Srv,ANCORA MEDICAL PRACTICE,INV00018,"33,249.97",15 MONTHS LICENCE ARDENS PRO
+Department of Health,03K,30/04/2020,Miscellaneous Expenditure (L9),Miscellaneous Expenditure (L9),ANCORA MEDICAL PRACTICE,INV00019,"35,887.00",PC NETWORK FUND
+Department of Health,03K,30/04/2020,Miscellaneous Expenditure (L9),Miscellaneous Expenditure (L9),ANCORA MEDICAL PRACTICE,INV00020,"35,887.00",PC NETWORK FUND
+Department of Health,03K,30/04/2020,C&M-GMS Cost of Drugs -Prescribing,C&M-GMS Cost of Drugs -Prescribing,ANCORA MEDICAL PRACTICE,KHU000039016,"211,792.99",GMS APR 20
+Department of Health,03K,30/04/2020,C&M-GMS Cost of Drugs -Prescribing,C&M-GMS Cost of Drugs -Prescribing,ASHBY TURN PRIMARY CARE PARTNERS,KHU000038984,"113,656.73",GMS APR 20
+Department of Health,03K,30/04/2020,C&M-GMS Cost of Drugs -Dispensing,C&M-GMS Cost of Drugs -Dispensing,BARNETBY MEDICAL CENTRE,KHU000039008,"-35,263.97",GMS APR 20
+Department of Health,03K,30/04/2020,C&M-GMS Cost of Drugs -Dispensing,C&M-GMS Cost of Drugs -Dispensing,BARNETBY MEDICAL CENTRE,KHU000039009,"114,642.13",GMS APR 20
+Department of Health,03K,30/04/2020,C&M-GMS Cost of Drugs -Prescribing,C&M-GMS Cost of Drugs -Prescribing,BIRCHES MEDICAL PRACTICE,KHU000038985,"70,180.00",GMS APR 20
+Department of Health,03K,30/04/2020,C&M-GMS Cost of Drugs -Dispensing,C&M-GMS Cost of Drugs -Dispensing,BRIDGE STREET SURGERY,KHU000038988,"-54,803.96",GMS APR 20
+Department of Health,03K,30/04/2020,C&M-GMS Cost of Drugs -Dispensing,C&M-GMS Cost of Drugs -Dispensing,BRIDGE STREET SURGERY,KHU000038989,"146,964.43",GMS APR 20
+Department of Health,03K,30/04/2020,C&M-GMS Cost of Drugs -Prescribing,C&M-GMS Cost of Drugs -Prescribing,CAMBRIDGE AVENUE MEDICAL CENTRE,KHU000038987,"143,973.30",GMS APR 20
+Department of Health,03K,30/04/2020,C&M-GMS Cost of Drugs -Prescribing,C&M-GMS Cost of Drugs -Prescribing,CEDAR MEDICAL PRACTICE,KHU000038992,"74,316.27",GMS APR 20
+Department of Health,03K,30/04/2020,C&M-GMS Cost of Drugs -Dispensing,C&M-GMS Cost of Drugs -Dispensing,CENTRAL SURGERY BARTON HUMBER,KHU000038993,"-42,126.39",GMS APR 20
+Department of Health,03K,30/04/2020,C&M-GMS Cost of Drugs -Dispensing,C&M-GMS Cost of Drugs -Dispensing,CENTRAL SURGERY BARTON HUMBER,KHU000038994,"267,841.31",GMS APR 20
+Department of Health,03K,30/04/2020,C&M-GMS Cost of Drugs -Prescribing,C&M-GMS Cost of Drugs -Prescribing,CHURCH LANE MEDICAL CENTRE,KHU000038990,"91,343.51",GMS APR 20
+Department of Health,03K,30/04/2020,Other Gen Supplies & Srv,Other Gen Supplies & Srv,CLARITY INFORMATICS LTD,INV3921,"84,000.00",Team Net Multi Practice Licence 28/02/20 - 27/02/21
+Department of Health,03K,30/04/2020,C&M-APMS Contract Value,C&M-APMS Contract Value,CORE CARE LINKS,KHU000038809,"52,301.89",GMS APR 20
+Department of Health,03K,30/04/2020,Hcare Srv Rec Fdtn Trust-Non Contract,Hcare Srv Rec Fdtn Trust-Non Contract,CUMBRIA NORTHUMBERLAND TYNE AND WEAR NHS FOUNDATION TRUST,03KBP012001,"54,828.27",SLA APR 20
+Department of Health,03K,30/04/2020,Hcare Srv Rec Fdtn Trust-Non Contract,Hcare Srv Rec Fdtn Trust-Non Contract,CUMBRIA NORTHUMBERLAND TYNE AND WEAR NHS FOUNDATION TRUST,03KBP022001,"54,828.27",SLA MAY 20
+Department of Health,03K,30/04/2020,Hcare Srv Rec Fdtn Trust-Over/ Under Performance,Hcare Srv Rec Fdtn Trust-Over/ Under Performance,DONCASTER AND BASSETLAW HOSPITALS NHS FOUNDATION TRUST,56406281,"-75,205.00",Q3 FREEZE POSITION CONTRACT
+Department of Health,03K,30/04/2020,Hcare Srv Rec Fdtn Trust-Contract Baseline,Hcare Srv Rec Fdtn Trust-Contract Baseline,DONCASTER AND BASSETLAW HOSPITALS NHS FOUNDATION TRUST,03KBP012002,"312,178.44",SLA APR 20
+Department of Health,03K,30/04/2020,Hcare Srv Rec Fdtn Trust-Contract Baseline,Hcare Srv Rec Fdtn Trust-Contract Baseline,DONCASTER AND BASSETLAW HOSPITALS NHS FOUNDATION TRUST,03KBP022002,"312,178.44",SLA MAY 20
+Department of Health,03K,30/04/2020,C&M-GMS Cost of Drugs -Dispensing,C&M-GMS Cost of Drugs -Dispensing,DR P A WEBSTER & PARTNERS,KHU000038995,"-80,457.69",GMS APR 20
+Department of Health,03K,30/04/2020,C&M-GMS Cost of Drugs -Dispensing,C&M-GMS Cost of Drugs -Dispensing,DR P A WEBSTER & PARTNERS,KHU000038996,"259,662.26",GMS APR 20
+Department of Health,03K,30/04/2020,Hcare Srv Rec NHS Trust-Contract Baseline,Hcare Srv Rec NHS Trust-Contract Baseline,EAST MIDLANDS AMBULANCE SERVICE NHS TRUST,03KBP012003,"539,258.85",SLA APR 20
+Department of Health,03K,30/04/2020,Hcare Srv Rec NHS Trust-Contract Baseline,Hcare Srv Rec NHS Trust-Contract Baseline,EAST MIDLANDS AMBULANCE SERVICE NHS TRUST,03KBP022003,"539,258.85",SLA MAY 20
+Department of Health,03K,30/04/2020,Cont Care-Physical Disab (<65),Cont Care-Physical Disab (<65),ELITE CARE SOLUTIONS,47266,"28,119.04",NAMED PATIENT CARE FEES 03/03 - 29/03
+Department of Health,03K,30/04/2020,Clinical&Medical-Independent Sector,Clinical&Medical-Independent Sector,ELYSIUM HEALTHCARE LTD,HLH00651,"33,035.15",NAMED PATIENT BED FEE MAR 20
+Department of Health,03K,30/04/2020,Cont Care-Physical Disab (<65),Cont Care-Physical Disab (<65),HAVENMERE HEALTH CARE LTD,1647B169658,"37,814.60",CHC MAR 20
+Department of Health,03K,30/04/2020,Cont Care-Physical Disab (65+),Cont Care-Physical Disab (65+),HAVENMERE HEALTH CARE LTD,1647C169658,"26,013.61",FNC MAR 20
+Department of Health,03K,30/04/2020,Clinical&Medical-Independent Sector,Clinical&Medical-Independent Sector,HAVENMERE HEALTH CARE LTD,1661169658,"35,544.25",SS MAR 20
+Department of Health,03K,30/04/2020,Hcare Srv Rec NHS Trust-Contract Baseline,Hcare Srv Rec NHS Trust-Contract Baseline,HULL UNIVERSITY TEACHING HOSPITAL NHS TRUST,03KBP012004,"1,288,921.17",SLA APR 20
+Department of Health,03K,30/04/2020,Hcare Srv Rec NHS Trust-Contract Baseline,Hcare Srv Rec NHS Trust-Contract Baseline,HULL UNIVERSITY TEACHING HOSPITAL NHS TRUST,03KBP022004,"1,288,921.17",SLA MAY 20
+Department of Health,03K,30/04/2020,Hcare Srv Rec NHS Trust-Over/ Under Performance,Hcare Srv Rec NHS Trust-Over/ Under Performance,HULL UNIVERSITY TEACHING HOSPITAL NHS TRUST,H0030919,"130,417.00",OVER TRADE MAR 20
+Department of Health,03K,30/04/2020,C&M-GMS GP Statutory Levy,C&M-GMS GP Statutory Levy,HUMBERSIDE GROUP OF LMC LTD,105780-06-APR-2020,"26,819.02",STATUTORY LEVY QTR 4
+Department of Health,03K,30/04/2020,Cont Care-Physical Disab (<65),Cont Care-Physical Disab (<65),PRIVATE INDIVIDUAL,4261 2 2020,"25,708.89",PHB MAY 20
+Department of Health,03K,30/04/2020,Clinical&Medical-Independent Sector,Clinical&Medical-Independent Sector,KIRTON LINDSEY SURGERY,201900027,"78,190.34",SLA Q4 MSK & PAIN MANAGEMENT SERVICE
+Department of Health,03K,30/04/2020,C&M-GMS Cost of Drugs -Dispensing,C&M-GMS Cost of Drugs -Dispensing,KIRTON LINDSEY SURGERY,KHU000038997,"-52,964.97",GMS APR 20
+Department of Health,03K,30/04/2020,C&M-GMS Cost of Drugs -Dispensing,C&M-GMS Cost of Drugs -Dispensing,KIRTON LINDSEY SURGERY,KHU000038998,"214,206.95",GMS APR 20
+Department of Health,03K,30/04/2020,Hcare Srv Rec NHS Trust-Contract Baseline,Hcare Srv Rec NHS Trust-Contract Baseline,LEEDS TEACHING HOSPITALS NHS TRUST,03KBP012011,"55,627.85",SLA APR 20
+Department of Health,03K,30/04/2020,Hcare Srv Rec NHS Trust-Contract Baseline,Hcare Srv Rec NHS Trust-Contract Baseline,LEEDS TEACHING HOSPITALS NHS TRUST,03KBP022011,"55,627.85",SLA MAY 20
+Department of Health,03K,30/04/2020,Hcare Srv Rec Fdtn Trust-Non Contract,Hcare Srv Rec Fdtn Trust-Non Contract,LINCOLNSHIRE PARTNERSHIP NHS FOUNDATION TRUST,03KBP012006,"73,675.48",SLA APR 20
+Department of Health,03K,30/04/2020,Hcare Srv Rec Fdtn Trust-Non Contract,Hcare Srv Rec Fdtn Trust-Non Contract,LINCOLNSHIRE PARTNERSHIP NHS FOUNDATION TRUST,03KBP022006,"73,675.48",SLA MAY 20
+Department of Health,03K,30/04/2020,Hcare Srv Rec NHS Trust-Contract Baseline,Hcare Srv Rec NHS Trust-Contract Baseline,LINCS COMMUNITY HEALTH SERVICES NHS TRUST,03KBP012005,"26,386.10",SLA APR 20
+Department of Health,03K,30/04/2020,Hcare Srv Rec NHS Trust-Contract Baseline,Hcare Srv Rec NHS Trust-Contract Baseline,LINCS COMMUNITY HEALTH SERVICES NHS TRUST,03KBP022005,"26,386.10",SLA MAY 20
+Department of Health,03K,30/04/2020,Clinical&Medical-Voluntary Sector,Clinical&Medical-Voluntary Sector,LINDSEY LODGE HOSPICE,PPLLH1226,"124,293.25",CCG GRANT Q1
+Department of Health,03K,30/04/2020,Hcare Srv Rec NHS CCG-Contract Baseline,Hcare Srv Rec NHS CCG-Contract Baseline,NHS DONCASTER CCG,7014901884,"45,906.00",PUPOC SHARED SERVICES
+Department of Health,03K,30/04/2020,LPF Management Fees,LPF Management Fees,NHS NORTH OF ENGLAND CSU,7310018519,"37,381.25",SLA MAR 20
+Department of Health,03K,30/04/2020,Services From Local Authorities,Services From Local Authorities,NORTH LINCOLNSHIRE COUNCIL,A0041793,"104,110.00",INTERMEDIATE CARE SERVICES CONTRIBUTION  Q4
+Department of Health,03K,30/04/2020,Cont Care-Learning Disab(<65),Cont Care-Learning Disab(<65),NORTH LINCOLNSHIRE COUNCIL,A0041949,"125,400.13",DOMICILIARY CARE SERVICES
+Department of Health,03K,30/04/2020,Soc Care-Re-ablement services,Soc Care-Re-ablement services,NORTH LINCOLNSHIRE COUNCIL,PPNOINV11203,"576,916.67",BCF PAYMENT APR 20
+Department of Health,03K,30/04/2020,Hcare Srv Rec Fdtn Trust-Contract Baseline,Hcare Srv Rec Fdtn Trust-Contract Baseline,NORTHERN LINCOLNSHIRE AND GOOLE HOSPITALS NHS FOUNDATION TRUST,03KBP012007,"10,491,617.28",SLA APR 20
+Department of Health,03K,30/04/2020,Hcare Srv Rec Fdtn Trust-Contract Baseline,Hcare Srv Rec Fdtn Trust-Contract Baseline,NORTHERN LINCOLNSHIRE AND GOOLE HOSPITALS NHS FOUNDATION TRUST,03KBP022007,"10,491,617.28",SLA MAY 20
+Department of Health,03K,30/04/2020,Hcare Srv Rec NHS Trust-Non Contract,Hcare Srv Rec NHS Trust-Non Contract,NOTTINGHAM UNIVERSITY HOSPITALS NHS TRUST,2000110593,"27,076.98",NCA BILL M11 FLEX M10 FREEZE
+Department of Health,03K,30/04/2020,Clinical&Medical-Independent Sector,Clinical&Medical-Independent Sector,ONEHEALTH GROUP,2632,"37,135.27",PATIENT ACTIVITY MAR 20
+Department of Health,03K,30/04/2020,C&M-GMS Cost of Drugs -Prescribing,C&M-GMS Cost of Drugs -Prescribing,OSWALD ROAD MEDICAL SURGERY,KHU000039000,"61,592.91",GMS APR 20
+Department of Health,03K,30/04/2020,C&M-GMS Cost of Drugs -Dispensing,C&M-GMS Cost of Drugs -Dispensing,RIVERSIDE SURGERY,KHU000039013,"-63,607.60",GMS APR 20
+Department of Health,03K,30/04/2020,C&M-GMS Cost of Drugs -Dispensing,C&M-GMS Cost of Drugs -Dispensing,RIVERSIDE SURGERY,KHU000039014,"274,690.80",GMS APR 20
+Department of Health,03K,30/04/2020,Miscellaneous Expenditure (L9),Miscellaneous Expenditure (L9),RIVERSIDE SURGERY,R895,"32,401.50",EXTENDED ACCESS FOR MAR 20 FOR EAST NETWORK PCN PRACTICES
+Department of Health,03K,30/04/2020,Other Gen Supplies & Srv,Other Gen Supplies & Srv,RIVERSIDE SURGERY,R903,"26,754.67",15 MONTHS LICENCE ARDENS PRO
+Department of Health,03K,30/04/2020,Miscellaneous Expenditure (L9),Miscellaneous Expenditure (L9),RIVERSIDE SURGERY,R905,"35,960.67",CCG PMS FUNDING
+Department of Health,03K,30/04/2020,Miscellaneous Expenditure (L9),Miscellaneous Expenditure (L9),RIVERSIDE SURGERY,R911,"50,400.00",EAST PCN NETWORK
+Department of Health,03K,30/04/2020,Miscellaneous Expenditure (L9),Miscellaneous Expenditure (L9),RIVERSIDE SURGERY,R921,"32,401.50",EXTENDED ACCESS FOR APR 20 FOR EAST NETWORK PCN PRACTICES
+Department of Health,03K,30/04/2020,Hcare Srv Rec Fdtn Trust-Contract Baseline,Hcare Srv Rec Fdtn Trust-Contract Baseline,ROTHERHAM DONCASTER AND SOUTH HUMBER NHS FOUNDATION TRUST,03KBP012008,"1,307,882.61",SLA APR 20
+Department of Health,03K,30/04/2020,Hcare Srv Rec Fdtn Trust-Contract Baseline,Hcare Srv Rec Fdtn Trust-Contract Baseline,ROTHERHAM DONCASTER AND SOUTH HUMBER NHS FOUNDATION TRUST,03KBP022008,"1,307,882.61",SLA MAY 20
+Department of Health,03K,30/04/2020,Hcare Srv Rec Fdtn Trust-Contract Baseline,Hcare Srv Rec Fdtn Trust-Contract Baseline,SHEFFIELD CHILDRENS NHS FOUNDATION TRUST,03KBP022009,"42,263.46",SLA MAY 20
+Department of Health,03K,30/04/2020,Hcare Srv Rec Fdtn Trust-Contract Baseline,Hcare Srv Rec Fdtn Trust-Contract Baseline,SHEFFIELD CHILDRENS NHS FOUNDATION TRUST,21001143,"43,074.00",SLA APR 20
+Department of Health,03K,30/04/2020,Hcare Srv Rec Fdtn Trust-Contract Baseline,Hcare Srv Rec Fdtn Trust-Contract Baseline,SHEFFIELD TEACHING HOSPITALS NHS FOUNDATION TRUST,03KBP012010,"135,128.83",SLA APR 20
+Department of Health,03K,30/04/2020,Hcare Srv Rec Fdtn Trust-Contract Baseline,Hcare Srv Rec Fdtn Trust-Contract Baseline,SHEFFIELD TEACHING HOSPITALS NHS FOUNDATION TRUST,03KBP022010,"135,128.83",SLA MAY 20
+Department of Health,03K,30/04/2020,Hcare Srv Rec Fdtn Trust-Contract Cost per Case,Hcare Srv Rec Fdtn Trust-Contract Cost per Case,SHEFFIELD TEACHING HOSPITALS NHS FOUNDATION TRUST,4000592858,"26,694.00",Q3 FREEZE POSITION CONTRACT
+Department of Health,03K,30/04/2020,C&M-GMS Cost of Drugs -Dispensing,C&M-GMS Cost of Drugs -Dispensing,SK NAEEM,KHU000039011,"69,963.29",GMS APR 20
+Department of Health,03K,30/04/2020,C&M-GMS Cost of Drugs -Dispensing,C&M-GMS Cost of Drugs -Dispensing,SOUTH AXHOLME PRACTICE,KHU000039001,"-110,237.85",GMS APR 20
+Department of Health,03K,30/04/2020,C&M-GMS Cost of Drugs -Dispensing,C&M-GMS Cost of Drugs -Dispensing,SOUTH AXHOLME PRACTICE,KHU000039002,"369,003.26",GMS APR 20
+Department of Health,03K,30/04/2020,Clinical&Medical-Independent Sector,Clinical&Medical-Independent Sector,SPAMEDICA LTD,NHSNLN044,"31,978.78",NCA FEB 20
+Department of Health,03K,30/04/2020,Clinical&Medical-Independent Sector,Clinical&Medical-Independent Sector,ST HUGHS HOSPITAL,JANXS2020,"64,186.93",ACTIVITY OVER CONTRACT PLAN JAN 20
+Department of Health,03K,30/04/2020,Recruitment Agency Fees,Recruitment Agency Fees,TEMPLARS MEDICAL AGENCY UK LTD,337,"30,000.00",MOU FUNDING
+Department of Health,03K,30/04/2020,C&M-GMS Cost of Drugs -Dispensing,C&M-GMS Cost of Drugs -Dispensing,TRENT VIEW MEDICAL PRACTICE,KHU000039003,"-46,934.96",GMS APR 20
+Department of Health,03K,30/04/2020,C&M-GMS Cost of Drugs -Dispensing,C&M-GMS Cost of Drugs -Dispensing,TRENT VIEW MEDICAL PRACTICE,KHU000039004,"231,699.97",GMS APR 20
+Department of Health,03K,30/04/2020,Hcare Srv Rec NHS Trust-Contract Baseline,Hcare Srv Rec NHS Trust-Contract Baseline,UNITED LINCOLNSHIRE HOSPITALS NHS TRUST,03KBP012012,"109,199.63",SLA APR 20
+Department of Health,03K,30/04/2020,Hcare Srv Rec NHS Trust-Contract Baseline,Hcare Srv Rec NHS Trust-Contract Baseline,UNITED LINCOLNSHIRE HOSPITALS NHS TRUST,03KBP022012,"109,199.63",SLA MAY 20
+Department of Health,03K,30/04/2020,Clinical&Medical-Independent Sector,Clinical&Medical-Independent Sector,VIRGIN CARE EAST RIDING LLP,301173282,"130,000.00",SLA APR 20
+Department of Health,03K,30/04/2020,C&M-PMS Contract Value,C&M-PMS Contract Value,WEST COMMON LANE TEACHING PRACTICE,KHU000038806,"71,325.73",GMS APR 20
+Department of Health,03K,30/04/2020,C&M-PMS Contract Value,C&M-PMS Contract Value,WEST TOWN SURGERY,KHU000038808,"28,843.70",GMS APR 20
+Department of Health,03K,30/04/2020,Hcare Srv Rec Fdtn Trust-Non Contract,Hcare Srv Rec Fdtn Trust-Non Contract,YORK TEACHING HOSPITAL NHS FOUNDATION TRUST,03KBP022013,"36,780.62",SLA MAY 20
+Department of Health,03K,30/04/2020,Hcare Srv Rec NHS Trust-Contract Baseline,Hcare Srv Rec NHS Trust-Contract Baseline,YORKSHIRE AMBULANCE SERVICE NHS TRUST,03KBP012014,"40,778.52",SLA APR 20
+Department of Health,03K,30/04/2020,Hcare Srv Rec NHS Trust-Contract Baseline,Hcare Srv Rec NHS Trust-Contract Baseline,YORKSHIRE AMBULANCE SERVICE NHS TRUST,03KBP022014,"254,778.52",SLA MAY 20
